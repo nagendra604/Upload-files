@@ -1,7 +1,5 @@
-class Demo implements Sample
+abstract class Demo 
 {
-	public  void test() 
-	{
-		System.out.println("Test car......");
-	}
+	abstract public void test();
+	
 }

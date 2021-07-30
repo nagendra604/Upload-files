@@ -2,7 +2,8 @@ class MainClass
 {
 	public static void main(String[] args) 
 	{
-		Demo d1 = new Demo();
-		d1.test();
+		Sample s1 = new Sample();
+
+		s1.test();
 	}
 }
